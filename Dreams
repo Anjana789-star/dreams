@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<title>Dreams Come True - Positive Affirmations & Manifestation</title>
+<style>
+  /* Reset & base styles */
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+    padding: 20px;
+    background: linear-gradient(135deg, #6b73ff 0%, #000dff 100%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f0f4ff;
+    line-height: 1.6;
+  }
+  h1, h2, h3 {
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: #eff3ff;
+    text-shadow: 0 2px 8px rgba(0, 13, 255, 0.7);
+  }
+  h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  h2 {
+    border-bottom: 2px solid #87a7ff;
+    padding-bottom: 0.3rem;
+    margin-top: 2rem;
+  }
+  p {
+    margin-bottom: 1rem;
+  }
+  strong {
+    color: #ffd369;
+  }
+  .container {
+    max-width: 350px;
+    margin: 0 auto;
+    background: rgba(20, 29, 88, 0.85);
+    padding: 20px 25px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px #000dffaa;
+  }
+  blockquote {
+    font-style: italic;
+    color: #a3b7ff;
+    border-left: 4px solid #5580ff;
+    padding-left: 10px;
+    margin: 1rem 0;
+  }
+  /* Chart container styles */
+  .chart {
+    background: #1c2a73;
+    border-radius: 12px;
+    padding: 15px;
+    margin: 1rem 0 2rem 0;
+    box-shadow: 0 0 10px #6b73fff0;
+  }
+  .chart-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #9bb7ff;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  /* Mindset shift chart */
+  .mindset-chart {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.9rem;
+    color: #dce3ff;
+    flex-wrap: wrap;
+  }
+  .mindset-column {
+    width: 48%;
+    background: #273a9e;
+    padding: 10px 15px;
+    border-radius: 10px;
+    box-shadow: inset 0 0 5px #000dff97;
+  }
+  .mindset-column h4 {
+    margin-top: 0;
+    color: #a0b8ff;
+    text-align: center;
+  }
+  /* Manifestation process svg */
+  svg.manifestation-svg {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }
+  /* Affirmation list styles */
+  ul.affirmation-list {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  ul.affirmation-list li {
+    background: #384fe2;
+    margin: 0.4rem 0;
+    padding: 8px 12px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px #000dff80;
+    font-weight: 600;
+  }
+  /* Responsive for mobile */
+  @media (max-width: 350px) {
+    body, .container {
+      padding: 15px 10px;
+      max-width: 100vw;
+      border-radius: 0;
+    }
+    h1 {
+      font-size: 1.5rem;
+    }
+    .mindset-column {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  }
+</style>
+</head>
+<body>
+  <div class="container" role="main">
+    <h1>Dreams Come True</h1>
+    <p><strong>Unlock the power within you</strong> to manifest your dreams through positive affirmations and focused intention. This ebook will guide you on a transformative journey where your dreams aren't just wishes—they become your reality.</p>
+
+    <h2>Chapter 1: Understanding Dreams and Aspirations</h2>
+    <p>Dreams are the seed of all success. They start as ideas, hopes, and visions that inspire you to create a better future. But dreams alone are not enough; you must believe in their possibility and nurture them with action and positive mindset.</p>
+
+    <h2>Chapter 2: The Power of Positive Affirmations</h2>
+    <blockquote>"I am worthy of achieving my dreams. Every day, I grow closer to my success."</blockquote>
+    <p>Positive affirmations are powerful tools that reprogram your subconscious mind. They help you replace limiting beliefs with empowering ones. Repeating affirmations daily builds confidence, motivation, and shapes your reality.</p>
+
+    <div class="chart mindset-chart" aria-label="Mindset shift chart showing positive vs negative thoughts">
+      <div class="mindset-column" role="region" aria-labelledby="negative-thoughts-title">
+        <h4 id="negative-thoughts-title">Negative Mindset</h4>
+        <ul>
+          <li>I can't do this</li>
+          <li>It's too hard</li>
+          <li>I'm not good enough</li>
+          <li>Things never work out</li>
+          <li>I will fail</li>
+        </ul>
+      </div>
+      <div class="mindset-column" role="region" aria-labelledby="positive-thoughts-title">
+        <h4 id="positive-thoughts-title">Positive Mindset</h4>
+        <ul>
+          <li>I am capable</li>
+          <li>I learn and grow</li>
+          <li>I deserve success</li>
+          <li>Opportunities are everywhere</li>
+          <li>I will achieve my goals</li>
+        </ul>
+      </div>
+    </div>
+
+    <h2>Chapter 3: Manifestation Techniques to Achieve Your Dreams</h2>
+    <p>Manifestation is about aligning your thoughts, feelings, and actions with the reality you wish to create. Here’s a simple 5-step manifestation process:</p>
+    <svg viewBox="0 0 350 220" aria-hidden="true" class="manifestation-svg" role="img">
+      <style>
+        .step-box { fill: #4259f5; stroke: #c6d2ff; stroke-width: 2; rx: 15; ry: 15;}
+        .step-text { fill: #e4ebff; font-size: 12px; font-weight: 700; text-anchor: middle; dominant-baseline: middle; font-family: Arial, sans-serif; }
+        .arrow { fill: none; stroke: #99adff; stroke-width: 2; marker-end: url(#arrowhead);}
+      </style>
+      <defs>
+        <marker id="arrowhead" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+          <path d="M0,0 L6,3 L0,6" fill="#99adff"/>
+        </marker>
+      </defs>
+
+      <!-- Steps boxes -->
+      <rect x="10" y="10" width="60" height="50" class="step-box"/>
+      <text x="40" y="35" class="step-text">1. Set Clear Intentions</text>
+
+      <rect x="95" y="10" width="60" height="50" class="step-box"/>
+      <text x="125" y="35" class="step-text">2. Visualize Daily</text>
+
+      <rect x="180" y="10" width="60" height="50" class="step-box"/>
+      <text x="210" y="35" class="step-text">3. Use Affirmations</text>
+
+      <rect x="10" y="90" width="60" height="50" class="step-box"/>
+      <text x="40" y="115" class="step-text">4. Take Inspired Action</text>
+
+      <rect x="95" y="90" width="60" height="50" class="step-box"/>
+      <text x="125" y="115" class="step-text">5. Trust the Process</text>
+
+      <!-- Arrows -->
+      <path d="M70 35 H95" class="arrow" />
+      <path d="M155 35 H180" class="arrow" />
+
+      <path d="M40 60 V90" class="arrow" />
+      <path d="M40 140 H120" class="arrow" />
+      <path d="M155 115 H180" class="arrow" />
+    </svg>
+
+    <h2>Chapter 4: Overcoming Obstacles and Staying Motivated</h2>
+    <p>Challenges are part of the journey, not a stop sign. When faced with setbacks, remind yourself of your affirmations and purpose. Stay consistent and cultivate patience. Remember, every step forward, no matter how small, brings you closer to your dream.</p>
+
+    <h2>Chapter 5: Creating Your Personal Manifestation Plan</h2>
+    <p>Use these affirmations daily to build your dream life:</p>
+    <ul class="affirmation-list" aria-label="List of powerful positive affirmations">
+      <li>I attract success and happiness effortlessly.</li>
+      <li>My dreams are unfolding right before me.</li>
+      <li>I am a magnet for positive opportunities.</li>
+      <li>Every day I grow stronger and more confident.</li>
+      <li>I believe in the limitless possibilities ahead.</li>
+    </ul>
+    <p>Write your own affirmations tailored to your dreams and repeat them each morning and night. Create vision boards, journal your progress, and make small actionable goals. Your future is created by what you do today.</p>
+
+    <p style="text-align:center; margin-top:2rem; font-weight:700; color:#ffd369;">
+      Believe, Affirm, Act — and watch your dreams come true!
+    </p>
+  </div>
+</body>
+</html>
+
